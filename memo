@@ -1,0 +1,18 @@
+background color:
+    header: #363745
+    nav:    #262730
+
+text:
+    family:
+    reguler color: 
+    name color: #EC465A
+    hover color: #EC465A
+
+    nomal font size: 16px
+    large font size: 24px
+
+border:
+    bottom of nav: #427AA1
+
+button:
+    hover: #0DAAE7
